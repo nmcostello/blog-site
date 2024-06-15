@@ -12,7 +12,7 @@ Technical features include:
 - Customizable alerting and notifications
 
 ## Tech Stack
-- **Backend:** [e.g., Node.js, Express, MongoDB]
+- **Backend:** Express/Node.js (if needed)
 - **Frontend:** SvelteKit
 - **APIs:** RESTful
 - **Monitoring & Logging:** Prometheus, Grafana
@@ -75,11 +75,11 @@ Technical features include:
       npm start
       ```
 
-3. **Frontend:**
+3. **Frontend:**noa
     - Navigate to the frontend directory and install dependencies:
       ```sh
       cd ../frontend
-      npm install
+      npm installgi
       ```
 
     - Set up environment variables `.env`:
